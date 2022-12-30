@@ -1,0 +1,27 @@
+div {
+    display: inline-block;
+    padding: 10px;
+    text-align: center;
+    vertical-align: top;
+  }
+  
+  .player {
+    width: 75px;
+    height: 75px;
+    background-color: yellow;
+    border-radius: 10%;
+  }
+  
+  #ball, #kid2 {
+    position: relative;
+    left: 75px;
+    top: 100px;
+  }
+  
+  #ball {
+    width: 20px;
+    height: 20px;
+    background-color: red;
+    border-radius: 50%;
+    /* ide kell írni a kódot*/
+  }

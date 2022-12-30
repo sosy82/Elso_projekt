@@ -1,0 +1,20 @@
+div {
+    display: inline-block;
+    padding: 5px;
+    margin-top: 20px;
+    text-align: center;
+    vertical-align: top;
+    width: 60px;
+    height: 100px;
+    background-color: #e0d784;
+  }
+  
+  #second {
+    width: 18px;
+    position: relative;
+    top: 20px;
+    writing-mode: vertical-rl;
+    text-orientation: upright;
+  }
+  
+  /* ide kell írni a kódot*/
